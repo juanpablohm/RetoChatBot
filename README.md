@@ -13,11 +13,11 @@
 1. Descargue e instale **NodeJS V. 16.13.1 LTS**
     - Ingrese a la pagina oficial : https://nodejs.org/es/download/
     - Seleccione el instalar según el SO. En caso de Windows -> **Instalador Windows LTS**,
-    - Ejecute el archivo descargado y siga el proceso de instalación,
-2. Cree una carpeta con el nombre RetoChatBotNodeJS
-3. Abra Visual Studio Code
+    - Ejecute el archivo descargado y siga el proceso de instalación.
+2. Cree una carpeta con el nombre RetoChatBotNodeJS.
+3. Abra Visual Studio Code.
 4. En la barra de herramientas seleccione : Archivo -> Abrir Carpeta -> RetoChatBotNodeJS (la que creo anteriormente).
-5. En la barra de herramientas: Terminal -> New Terminal
+5. En la barra de herramientas: Terminal -> New Terminal.
 6. En la terminal, clone el repositorio: git clone https://github.com/juanpablohm/RetoChatBot.git
 7. En la terminal ejecute el comando: **cd ChatBot**
 8. En la terminal ejecute el comando: **npm install express**. Espere a que se instale.
