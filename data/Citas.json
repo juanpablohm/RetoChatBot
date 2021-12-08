@@ -1,0 +1,38 @@
+[
+	{
+		"nombre": "Pedro",
+		"apellido": "Molina",
+		"id": "87654321",
+		"EPS": "Coomeva",
+		"URL": "https",
+		"estado": "tramite",
+		"especialista": null,
+		"hora": null,
+		"fecha": null,
+		"codigoCita": "CC100"
+	},
+	{
+		"nombre": "Pablo",
+		"apellido": "Nuñez",
+		"id": "12345678",
+		"EPS": "Coomeva",
+		"URL": "https",
+		"estado": "asignada",
+		"especialista": "Dr. Carlos Matiz",
+		"hora": "7:00 pm",
+		"fecha": "12/93/2021",
+		"codigoCita": "CC101"
+	},
+	{
+		"nombre": "Martin",
+		"apellido": "Perez",
+		"id": "2345678",
+		"EPS": "Cafesalud",
+		"URL": "htttps",
+		"estado": "asignada",
+		"especialista": "Dr. Rafael Enrique Conde Camacho",
+		"hora": "8:57AM",
+		"fecha": "12/14/2021",
+		"codigoCita": "CC102"
+	}
+]

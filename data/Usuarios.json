@@ -1,0 +1,20 @@
+[
+	{
+		"nombre": "Pedro",
+		"apellido": "Molina",
+		"id": "87654321",
+		"codigoTramites": "CT100"
+	},
+	{
+		"nombre": "Pablo",
+		"apellido": "Nuñez",
+		"id": "12345678",
+		"codigoTramites": "CT101"
+	},
+	{
+		"nombre": "Martin",
+		"apellido": "Perez",
+		"id": "2345678",
+		"codigoTramites": "CT102"
+	}
+]
